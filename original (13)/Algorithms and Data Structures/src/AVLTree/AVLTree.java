@@ -254,6 +254,10 @@ public class AVLTree {
 				}
 				previousLevelWasAllNull = true;
 			}
+			
+			
+			
+			
 		}//end of loop
 	}//end of method
 
